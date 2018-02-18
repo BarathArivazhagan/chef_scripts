@@ -6,6 +6,6 @@ description "Role configuration to install java oracle JDK"
 
 run_list(
 
-	"recipe[java]",
+	"recipe[java]"
 
 )
