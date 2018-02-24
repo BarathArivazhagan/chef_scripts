@@ -1,6 +1,6 @@
 name 'iac_chef_java'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Barath Arivazhagan'
+maintainer_email 'barathmacdec91@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures iac_chef_java'
 long_description 'Installs/Configures iac_chef_java'
@@ -11,10 +11,10 @@ chef_version '>= 12.1' if respond_to?(:chef_version)
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/iac_chef_java/issues'
+# issues_url 'https://github.com/BarathArivazhagan/iac_chef_java/issues'
 
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/iac_chef_java'
+# source_url 'https://github.com/BarathArivazhagan/iac_chef_java'

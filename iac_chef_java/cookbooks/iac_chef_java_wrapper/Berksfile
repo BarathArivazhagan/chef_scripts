@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 source 'https://supermarket.chef.io'
 
-cookbook 'java'
-cookbook 'apt'
+cookbook 'java', '~> 1.50.0'
 
 metadata

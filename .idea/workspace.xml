@@ -2,46 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa7c80d6-3d7e-4a9e-8f47-75ee102a2171" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/chef_scripts.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/.kitchen.yml" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/.kitchen.yml" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/Berksfile" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/Berksfile" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/LICENSE" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/README.md" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/README.md" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/chefignore" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/chefignore" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/data_bags/keys/delivery_builder_keys.json" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/data_bags/keys/delivery_builder_keys.json" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/metadata.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/metadata.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/default.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/default.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/deploy.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/deploy.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/functional.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/functional.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/lint.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/lint.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/provision.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/provision.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/publish.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/publish.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/quality.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/quality.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/security.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/security.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/smoke.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/smoke.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/syntax.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/syntax.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/recipes/unit.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/recipes/unit.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/secrets/fakey-mcfakerton" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/secrets/fakey-mcfakerton" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/test/fixtures/cookbooks/test/metadata.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/test/fixtures/cookbooks/test/metadata.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/build_cookbook/test/fixtures/cookbooks/test/recipes/default.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/build_cookbook/test/fixtures/cookbooks/test/recipes/default.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/config.json" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/config.json" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.delivery/project.toml" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.delivery/project.toml" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.gitignore" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/.kitchen.yml" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.kitchen.yml" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/Berksfile" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/Berksfile" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/LICENSE" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/README.md" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/README.md" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/attributes/default.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/attributes/default.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/chefignore" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/chefignore" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/metadata.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/metadata.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/recipes/default.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/recipes/default.rb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/Berksfile" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/Berksfile" />
+      <change beforePath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/attributes/default.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/attributes/default.rb" />
+      <change beforePath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/metadata.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/metadata.rb" />
+      <change beforePath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/recipes/default.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/recipes/default.rb" />
       <change beforePath="$PROJECT_DIR$/iac_chef_java/roles/java_oracle.rb" afterPath="$PROJECT_DIR$/iac_chef_java/roles/java_oracle.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/spec/spec_helper.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/spec/spec_helper.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/spec/unit/recipes/default_spec.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/spec/unit/recipes/default_spec.rb" />
-      <change beforePath="$PROJECT_DIR$/iac_chef_java/test/smoke/default/default_test.rb" afterPath="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/test/smoke/default/default_test.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,12 +17,102 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file leaf-file-name="java_oracle.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/iac_chef_java/roles/java_oracle.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="330">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/recipes/default.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/attributes/default.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metadata.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/metadata.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chefignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/chefignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-990">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Berksfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/Berksfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default_test.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/test/smoke/default/default_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/spec/spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,6 +131,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/Berksfile" />
+        <option value="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/metadata.rb" />
+        <option value="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/attributes/default.rb" />
+        <option value="$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/recipes/default.rb" />
         <option value="$PROJECT_DIR$/iac_chef_java/roles/java_oracle.rb" />
       </list>
     </option>
@@ -100,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,16 +177,79 @@
               <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
               <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java_wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java_wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="attributes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java_wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="recipes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java_wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java_wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java_wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="smoke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
+              <item name="cookbooks" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java_wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="smoke" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chef_scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chef_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="iac_chef_java" type="462c0819:PsiDirectoryNode" />
               <item name="roles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,32 +368,33 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1028" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25984684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -280,7 +405,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iac_chef_java/.kitchen.yml">
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/roles/java_oracle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -290,8 +423,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iac_chef_java/roles/java_oracle.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/.kitchen.yml" />
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/.kitchen.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/metadata.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/chefignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/Berksfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/test/smoke/default/default_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/attributes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/cookbooks/iac_chef_java_wrapper/recipes/default.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iac_chef_java/roles/java_oracle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
