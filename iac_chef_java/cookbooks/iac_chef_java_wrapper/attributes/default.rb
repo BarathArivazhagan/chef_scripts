@@ -1,4 +1,4 @@
-node['java']['install_flavor'] = "oracle"
-node['java']['jdk_version'] = "1.8"
-node['java']['java_home'] = "/opt"
-node['java']['oracle']['accept_oracle_download_terms'] = "true"
+default['java']['install_flavor'] = "oracle"
+default['java']['jdk_version'] = "1.8"
+default['java']['java_home'] = "/opt"
+default['java']['oracle']['accept_oracle_download_terms'] = "true"
